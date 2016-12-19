@@ -3,6 +3,7 @@
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
+TU DOIT MODIFIER TOUT TEXT PRSQ IL EST TROP POURRIS
 -->
 <html>
     <head>
@@ -17,5 +18,6 @@ and open the template in the editor.
         ?>
         <h2>Sous-titre</h2>
         <p>Deuxieme modif</p>
+        
     </body>
 </html>
