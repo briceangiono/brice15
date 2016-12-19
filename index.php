@@ -15,5 +15,7 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        <h2>Sous-titre</h2>
+        <p>Deuxieme modif</p>
     </body>
 </html>
